@@ -13,6 +13,8 @@ Após o download {
                2º r-- -->Grupos de Amigos
                3º r-- -->Todo o mundo
      }
+     git config --global user.email (Seu email cadastrado no GitHub)
+     git config --global user.name (Nome cadastrado no GitHub)
 
 }
 
@@ -21,7 +23,7 @@ pwd --> Fala em qual pasta voce esta
 
 após fazer alguma modificação no arquivo{
     (Git Bash Here){
-        git status --> avisa que voce fes uma modificação no código;
+        git status --> avisa que voce fez uma modificação no código;
         git add . --> Adiciona na master, ou seja, na linha do tempo todos os arquivos da pasta atual;
         git commit -m "" --> Adiciona um comentário ao novo arquivo modificado{
               após dar enter, não esquecer de modificar o email e a senha do resultado para o email e a senha do Github;
