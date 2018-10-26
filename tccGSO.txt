@@ -1,0 +1,10 @@
+DENTRO DO REPOSITÓRIO {
+    SCRIPT{
+       wEB
+       MOBILE
+       DESCKTOP
+    }
+    DOCUMENTAÇÃO
+    IMAGENS
+    SLIDES
+}
