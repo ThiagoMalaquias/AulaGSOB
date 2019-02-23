@@ -2,6 +2,8 @@ import static javax.swing.JOptionPane.showMessageDialog; //Exibir mensagens
 import static javax.swing.JOptionPane.showInputDialog; //receber dados do usiario
 import static java.lang.Integer.parseInt; //Converter String -> int
 import static java.lang.Float.parseFloat; //Converter String -> float
+        
+import static lerexibir.Console.*;
 
 public class FuncaoParte2{
     
